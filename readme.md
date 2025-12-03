@@ -12,6 +12,6 @@
 
 ## Лабораторная работа 1: HA Postgres Cluster - скоро
 
-## Лабораторная работа 1: Loki + Zabbix + Grafana
+## [Лабораторная работа 1: Loki + Zabbix + Grafana](https://github.com/Karina534/KomSet/tree/master/Lab2)
 
 ## [Лабораторная работа 3: Ansible + Caddy](https://github.com/Karina534/KomSet/tree/master/Lab3)
